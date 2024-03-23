@@ -1,3 +1,13 @@
 body {
     background-color: aquamarine;
 }
+h1 {
+    color: blue;
+    font-family: "Poppins"; 
+    font-weight: bold;
+}
+p {
+    color: blue;
+    font-family: "Poppins"; 
+    font-weight: normal; 
+}
