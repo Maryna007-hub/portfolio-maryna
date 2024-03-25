@@ -9,8 +9,5 @@ p {
    font-weight: normal;
 }
 .hero {
-    background: url(img/eye-cyber.png) no-repeat center; 
-    background-size: cover;
-    height: 400px;
-    position: relative;
+  background-image: url(/img/eye-cyber.png) no-repeat center;
 }
