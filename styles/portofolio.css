@@ -1,6 +1,6 @@
 
 :root {
-   --branding-color: white;
+   --branding-color: black;
    --secondary-color: blue;
    --font-family: "Poppins";
 }
@@ -14,27 +14,4 @@ p {
    font-weight: normal;
    color: var(--branding-color);
 }
-.hero {
-    background: url(/img/eye-cyber.png) no-repeat center; 
-    background-size: cover;
-    height: 450px;
-    position: relative;
-    text-align: center;
-}
-.hero p {
-   font-size: 46px;
-   margin-top: 20px;
-   padding-top: 20px;
-}
-.hero h1 {
-   font-size: 80px;
-}
-.hero h2 {
-   margin-top: 30px;
-}
-.btn {
-   border-radius: 5px;
-   font-size: 18px;
-   padding: 10px;
-   margin-top: 50px;
-}
+
