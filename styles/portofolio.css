@@ -21,8 +21,8 @@ h1, h2, p {
 .hero1 {
    font-size: 48px; 
 }
-.hero1 {
-   font-size: 48px; 
+.text {
+   text-align: left;
 }
 .navigation-links {
    display: flex;
