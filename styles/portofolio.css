@@ -2,7 +2,7 @@
 :root {
    --branding-color: rgb(41, 38, 38);
    --secondary-color: blue;
-   --font-family: "Poppins";
+   --font-family: "Karla" sans-serif;
 }
 h1, h2, p {
    color: var(--branding-color);
